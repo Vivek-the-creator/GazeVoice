@@ -1,4 +1,4 @@
-# Gaze-to-Speak (ALS Assist) 👁️
+# GazeVoice (ALS Assist) 👁️
 
 A browser-based assistive communication system designed for individuals with ALS (Amyotrophic Lateral Sclerosis) and severe motor impairments.
 
